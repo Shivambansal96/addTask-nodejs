@@ -1,0 +1,12 @@
+{
+  "name": "create-tasklist-in-backend",
+  "version": "1.0.0",
+  "description": "Create a New Task and perform CRUD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Bansal",
+  "license": "ISC"
+}
